@@ -1,0 +1,17 @@
+<div class="my-5">
+  <div class="max-w-sm bg-red-200 rounded-xl overflow-hidden md:max-w-2xl">
+    <div class="md:flex">
+      <!-- Card Wrapper -->
+      <div>
+        <img class="h-40 w-full object-cover md:h-full md:w-48" src="https://images.pexels.com/photos/2522657/pexels-photo-2522657.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="">
+      </div>
+      <div class="p-5">
+        <div class="uppercase text-sm font-semibold text-blue-700">An Awesome Card</div>
+        <a class="mt-1 text-sm font-medium hover:text-blue-700" href="#">To set the background color to White Smoke in 
+          <span class="bg-yellow-500 p-[2px] rounded-2xl px-[14px]">Tailwind CSS</span>
+          , you can use the class bg-white-smoke.</a>
+        <p class="mt-.5 text-slate-800">With this configuration, you can use transition-height</p>
+      </div>
+    </div>
+  </div>
+</div>
